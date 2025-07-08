@@ -78,18 +78,7 @@ Feedback: The admin staff is unresponsive to emails.
 Category: Administration
 
 
- Output
-After running the model, the results are saved to:
 
-
-
-To run this project, you need:
-
-IBM Cloud account
-
-API Key and Project ID from IBM Watson Machine Learning
-
-Your dataset (college_feedback.csv) uploaded to Colab or available locally
 
 Conclusion
 This project streamlines feedback classification using modern AI techniques, enabling colleges to better understand student concerns and take actionable steps. Future work can include real-time dashboards, deeper analysis, or multilingual support.
